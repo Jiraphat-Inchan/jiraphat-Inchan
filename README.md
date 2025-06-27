@@ -1,6 +1,9 @@
 Hi 👋 My name is jiraphat Inchan
 ================================
 
+
+🎓:I am currently studying at Rajamangala University of Technology Lanna (RMUTL)
+
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [aaazzzo403@gmail.com](mailto:aaazzzo403@gmail.com)
 
